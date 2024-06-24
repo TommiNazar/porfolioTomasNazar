@@ -1,0 +1,259 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "aileron";
+    src: url("./fuente/aileron_0102.zip");
+
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*------------colores body-------------*/
+
+.colores {
+    width: 20%;
+    height: 10%;
+    
+    bottom: 90%;
+    right: 10%;
+    position: fixed;
+    z-index: 50;
+    
+    display: flex;
+    justify-content:space-between;
+    align-items:flex-end;
+}
+.color{
+    margin: 1rem;
+    height: 30%;
+    width: 20%;
+    border-radius: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color1{
+    background-color: red;
+}
+
+.color2{
+    background-color: blue;
+}
+.color3{
+    background-color: green;
+}
+.color4{
+    background-color: whitesmoke;
+}
+.color5{
+    background-color: black;
+}
+
+
+
+
+
+/*------------conteiner-------------*/
+
+
+
+
+.conteiner{
+    width: 80vw;
+    height: 80vh;
+    background-color:rgb(231, 228, 223);
+    display: flex;
+    
+    
+    
+    
+
+}
+
+/*------------nav-------------*/
+
+.nav {
+     
+    width: 100%;
+    height: 90%;
+    margin: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    box-shadow: 0 0 10px rgb(136, 134, 134);
+}
+
+.nav h5{
+    font-size:large;
+    
+}
+.nav p{
+    font-size: small;
+    margin-left: 5%;
+}
+
+.navImg img{
+    width: 55%;
+    border-radius: 50%;
+    margin-left: 25%;
+    
+}
+
+.navIcon{
+    margin: 1rem;
+    margin-left: 20%;
+}
+.navIcon a img{
+    width: 20%;
+    height: auto;
+    margin: 0.1rem;
+    
+}
+
+.navMenu button{
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+/*--------------home-----------*/
+
+.contenido{
+    width: 300%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home{
+    width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.home h1{
+    margin: 1rem;
+}
+
+
+/*--------------sobre mi-----------*/
+
+
+.sobreMi{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+.lenguajes{
+    display: flex;
+    
+    
+}
+
+.lenguaje{
+    display: flex;
+    width: 70%;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.colLenguaje{
+    display:flex ;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.lenguaje img{
+    width: 70%;
+}
+
+
+
+/*--------------contacto-----------*/
+
+.contacto{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.contacto h3{
+    margin: 1rem;
+}
+
+.contacto p{
+    margin: 1rem;
+}
+
+
+/*--------------proyectossss-----------*/
+
+
+.proyectosconteiner{
+    display: flex;
+    width: 90%;
+    box-shadow: 0 0 10px rgb(136, 134, 134);
+}
+.proyecto{
+    text-align: center;
+    margin: 2rem;
+    
+}
+.proyecto h3{
+    margin: 0.8rem;
+}
+.proyecto button{
+    margin-top: 1rem;
+}
+
+.siguienteproy{
+    bottom: 10%;
+    right: 10%;
+    position: fixed;
+    z-index: 50;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size:x-large;
+}
+
+.anteriorProy{
+    bottom: 10%;
+    right: 10%;
+    position: fixed;
+    z-index: 50;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size:x-large;
+}
+            
+
+
+
