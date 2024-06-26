@@ -108,7 +108,7 @@ function sobreMi(){
             
         </div>
 
-    <p>dejo me CV donde podran ver tambien mi experienza fuera del rubro <a href="">CV</a></p>
+    <p>dejo me CV donde podran ver tambien mi experienza fuera del rubro <a download="CV" href="./cv-tomas-nazar.pdf">CV</a></p>
     <p>tambien les dejo a mano mi pag de github donde podran ver varios trabajos <a href="https://github.com/TommiNazar" target="_blank"><img src="./imagenes/git.png" alt="" style="width: 3%;"></a></p>
 
 
