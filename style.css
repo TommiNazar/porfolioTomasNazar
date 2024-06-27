@@ -101,7 +101,8 @@ body{
 }
 .nav p{
     font-size: small;
-    margin-left: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .navImg img{
@@ -222,7 +223,7 @@ body{
 }
 .proyecto{
     text-align: center;
-    margin: 2rem;
+    margin: 1rem;
     
 }
 .proyecto h3{

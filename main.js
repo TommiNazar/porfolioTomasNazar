@@ -108,7 +108,7 @@ function sobreMi(){
             
         </div>
 
-    <p>dejo me CV donde podran ver tambien mi experienza fuera del rubro <a download="CV" href="./cv-tomas-nazar.pdf">CV</a></p>
+    <p>dejo me CV donde podran ver tambien mi experienza fuera del rubro <a download="CV" href="./CV-TomasNazar.pdf">CV</a></p>
     <p>tambien les dejo a mano mi pag de github donde podran ver varios trabajos <a href="https://github.com/TommiNazar" target="_blank"><img src="./imagenes/git.png" alt="" style="width: 3%;"></a></p>
 
 
@@ -167,11 +167,20 @@ function proyectos1 (){
                     <div class="proyecto" >
                         <h3>Pagina Magica</h3>
                         <p>Pagina interactiva que le realiza al usuario trucos de magia, realizada con HTML, CSS y Javascript</p>
+                        <div>
+                        <a href="https://github.com/TommiNazar/magia-interactiva-js" target="_blank"><img src="./imagenes/git.png" alt="" style="width: 8%;">
+                        </div>
                         <a href="https://tomminazar.github.io/magia-interactiva-js/" target="_blank"><button id="proyecto2" >ir al proyeto</button></a>
+                        
+                        
                     </div>
+
                     <div class="proyecto">
                         <h3>Escuela BD</h3>
                         <p>AppWeb de una escuela de cursos con CRUD, donde se manipula la BD de la misma, realizada con Django, HTML, CSS, Bootstrap</p>
+                        <div>
+                        <a href="https://github.com/TommiNazar/escuela_de_cursos" target="_blank"><img src="./imagenes/git.png" alt="" style="width: 8%;">
+                        </div>
                         <a href="" target="_blank"><button id="proyecto2">ir al proyeto</button></a>
                     </div>
                 </div>
@@ -179,11 +188,17 @@ function proyectos1 (){
                     <div class="proyecto">
                         <h3>JureArquitectura</h3>
                         <p>Pagina informativa del estudio de arquitectura Jure, realizada con HTML, CSS, SASS, Bootstrap</p>
+                        <div>
+                        <a href="https://github.com/TommiNazar/jureArquitectura" target="_blank"><img src="./imagenes/git.png" alt="" style="width: 8%;">
+                        </div>
                         <a href="https://jure-arquitectura.vercel.app/" target="_blank"><button id="proyecto3">ir al proyeto</button></a>
                     </div>
                     <div class="proyecto">
                         <h3>Este Porfolio</h3>
                         <p>Pagina dinamica donde muestra el Porfilio que esta mirando, realizada con HTML, CSS y Javascript</p>
+                        <div>
+                        <a href="https://github.com/TommiNazar/porfolioTomasNazar" target="_blank"><img src="./imagenes/git.png" alt="" style="width: 8%;">
+                        </div>
                         <a href="https://porfolio-tomas-nazar.vercel.app/" target="_blank"><button id="proyecto4">ir al proyeto</button></a>
                     </div>
                 </div>
@@ -211,11 +226,17 @@ function proyectos1 (){
                                         <div class="proyecto">
                                             <h3>Mago Tommi</h3>
                                             <p>Pagina informativa del artista "Mago Tommi", realizada con HTML, CSS, SASS, Bootstrap</p>
+                                            <div>
+                                                <a href="https://github.com/TommiNazar/mago-tommi" target="_blank"><img src="./imagenes/git.png" alt="" style="width: 8%;">
+                                            </div>
                                             <a href="https://mago-tommi.vercel.app/" target="_blank"><button id="proyecto5">ir al proyeto</button></a>
                                         </div>
                                         <div class="proyecto">
                                             <h3>Sherlock Holmes</h3>
                                             <p>Pagina estatica cuyo fin es mostrar la coleccion de libros y cuentos de sherlock holmes, relizado con HTML, CSS, REACT</p>
+                                            <div>
+                                                <a href="https://github.com/TommiNazar/SHERLOCK-HOLMES" target="_blank"><img src="./imagenes/git.png" alt="" style="width: 8%;">
+                                            </div>
                                             <a href="https://sherlock-holmes-iota.vercel.app/" target="_blank"><button id="proyecto6">ir al proyeto</button></a>
                                         </div>
                                     </div>
@@ -223,11 +244,17 @@ function proyectos1 (){
                                         <div class="proyecto">
                                             <h3>Encuentra el Tesoro</h3>
                                             <p>Juego encuentra el tesoro utilizando frio / caliente deacuerdo a la proximidad del click, realizado con Canvas, HTML, CSS, Javascript</p>
+                                            <div>
+                                                <a href="https://github.com/TommiNazar/encuentra-el-tesoro" target="_blank"><img src="./imagenes/git.png" alt="" style="width: 8%;">
+                                            </div>
                                             <a href="https://encuentra-el-tesoro-drab.vercel.app/" target="_blank"><button id="proyecto7">ir al proyeto</button></a>
                                         </div>
                                         <div class="proyecto">
                                             <h3>Juego de Tragos</h3>
                                             <p>clasico juego de tragos realizado con una wheel spin, realizado con HTML, CSS, Javascript</p>
+                                            <div>
+                                                <a href="https://github.com/TommiNazar/JUEGO-DE-TRAGOS" target="_blank"><img src="./imagenes/git.png" alt="" style="width: 8%;">
+                                            </div>
                                             <a href="https://juego-de-tragos.vercel.app/" target="_blank"><button id="proyecto8">ir al proyeto</button></a>
                                         </div>
                                     </div>
